@@ -1,4 +1,4 @@
-# Continuous Documentation Project
+# continuous-documentation-delivery
 
 !!! abstract "Learning Objectives"
 
