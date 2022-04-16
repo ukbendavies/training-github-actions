@@ -12,7 +12,7 @@
     === "architecture"
 
         - [x] mkdocs material static sites for feature rich documentation from markdown
-        - [x] git, github and pages for free robust hosting
+        - [x] git, github: pages and actions for free robust hosting
         - [ ] cloudflare to enhance security and edge cache for improved performance and data locality [production env]
         - [x] design for stateless and ephemeral deployments to improve security posture  
         - [x] use static site generation to enable effective cache utilization
