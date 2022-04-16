@@ -1,3 +1,3 @@
 # an inserted external file
 
-foo bar baz
+foo bar baz update test
