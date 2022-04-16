@@ -1,11 +1,5 @@
-# about
+# About
 
-``` py
-import tensorflow as tf
-```
+This is an experimental site that uses mkdocs and github actions to perform a continuous deployment strategy for the site.
 
-The following section is inserted from the file insertme.md
-
-## Inserted file data
-
---8<-- "projects/insertme.md"
+The docker-compose file also enables use of docker to support fast local development and validation of content prior to pushing to github.
