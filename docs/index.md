@@ -4,7 +4,7 @@
 
     - [x] create a site for presentation of project documentation
     - [x] enable continuous integration and continuous deployment
-    - [ ] support integration of external documentation for external project repositories
+    - [ ] support integration of documentation from other project repositories
     - [x] ensure local development process is streamlined
 
 !!! info "Technologies Used"
