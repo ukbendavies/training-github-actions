@@ -1,4 +1,4 @@
-# continuous documentation project
+# Continuous Documentation Project
 
 !!! abstract "Learning Objectives"
 
@@ -7,7 +7,7 @@
     - [ ] support integration of external documentation for external project repositories
     - [x] ensure local development process is streamlined
 
-!!! example "Technologies used"
+!!! info "Technologies Used"
 
     === "architecture"
 
